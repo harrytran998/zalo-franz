@@ -1,0 +1,14 @@
+{
+  "id": "zalo-vietnam",
+  "name": "Zalo VietNam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/harrytran998/zalo-franz",
+  "license": "MIT",
+  "author": "Harry Tran <nhattq.coding@gmail.com>",
+  "config": {
+    "serviceURL": "https://chat.zalo.me/",
+    "hasNotificationSound": "true",
+    "hasIndirectMessages": "true"
+  }
+}
